@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=name\ marks
+comment0.target=StudentRecord(java.lang.String,\ int[])
+comment0.text=\n\ Create\ an\ student\ record\ with\ the\ specified\ name\ and\ specified\ array\n\ of\ marks\n\ @param\ \ <code>name</code>\ a\ <code>String</code>\ specifying\ the\ \n\ name\ of\ student\n\ @param\ \ <code>makrs</code>\ a\ <code>int[]</code>\ specifying\ array\n\ of\ marks\ \n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ Returns\ the\ name\ of\ the\ <code>StudentRecord</code>\ object\n\ \n\ @return\ \ \ the\ name\ of\ student,\ as\ a\ <code>String</code>\n
+comment2.params=
+comment2.target=java.lang.String\ getMarks()
+comment2.text=\n\ Returns\ the\ marks\ of\ the\ <code>StudentRecord</code>\ object\n\ \n\ @return\ \ \ the\ marks\ of\ student,\ as\ a\ <code>String</code>\n
+comment3.params=
+comment3.target=java.lang.String\ getNoOfMarks()
+comment3.text=\n\ Returns\ the\ \ number\ of\ elements\ in\ the\ array[]\ marks\ of\ the\ \n\ <code>StudentRecord</code>\ object\n\ \n\ @return\ \ \ the\ number\ of\ marks\ of\ student,\ as\ a\ <code>String</code>\n
+comment4.params=markPosn\ newMark
+comment4.target=void\ setMark(int,\ int)
+comment4.text=\n\ Edit\ student\ record\ marks\ data\n\n\ @param\ \ <code>markPosn</code>\ mark\ position\ in\ the\ array[]\ list\n\ @param\ \ <code>newMark</code>\ new\ value\ for\ the\ element\ from\ the\ array[]\n
+comment5.params=
+comment5.target=double\ getMarkAverage()
+comment5.text=\n\ Returns\ the\ marks\ average\ of\ the\ marks\ array\ from\ the\ \n\ <code>StudentRecord</code>\ object\n\ \n\ @return\ \ \ the\ marks\ average\ of\ student,\ as\ a\ <code>double</code>\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Returns\ a\ string\ representing\ the\ <code>StudentRecord</code>\ object.\ \n\ \n\ @return\ \ \ a\ <code>String</code>\ representation\ of\ the\ student\ name\ &\ marks\n
+numComments=7
